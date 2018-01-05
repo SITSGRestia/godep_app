@@ -1,7 +1,7 @@
 package main
 
 import (
-    "restia.org/dep"
+    "restia.org/godep_dep"
 )
 
 func main(){
