@@ -1,0 +1,11 @@
+{
+	"ImportPath": "per.zdh.org/godep_app",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "restia.org/godep_dep",
+			"Rev": "57e09bbd10bc0b861d9a34ad2b7ec8ad18bbca12"
+		}
+	]
+}
